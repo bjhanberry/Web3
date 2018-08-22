@@ -1,3 +1,1 @@
-# 
-Web 3 Project List
-
+# Web 3 Project List
