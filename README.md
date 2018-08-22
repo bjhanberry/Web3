@@ -1,2 +1,3 @@
-# Web3
-CSCI 306 CMU
+# 
+Web 3 Project List
+
