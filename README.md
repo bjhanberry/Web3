@@ -2,4 +2,4 @@
 
 In class work located on in-class branch
 
-Final project located in Final branch, ignore final folder on master
+Final project located in Final branch
